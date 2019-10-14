@@ -24,6 +24,8 @@ namespace Hello
              * double od 15 do 16 znakow po przecinku;
              * decimal = 28 znakow po przecinku;
              */
+
+            string b= "hello:";
             
 
             Console.WriteLine(a);
